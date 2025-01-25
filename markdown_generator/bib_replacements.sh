@@ -24,3 +24,5 @@ sed -i 's/@Article{app10196813,/@article{app10196813,publisher = {MDPI AG},/g' $
 
 # List Web Data APIs as book 
 sed -i 's/@article{Mero_o_Pe_uela_2021,/@book{Mero_o_Pe_uela_2021,/g' $BIBFILE
+
+# Replace first martinez_ortiz_2022, Mero_o_Pe_uela_2021, Martinez_Ortiz_2011
