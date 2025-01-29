@@ -24,7 +24,7 @@ author:
   avatar           : "me.jpg"
   name             : "Carlos Martinez-Ortiz"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "The Netherlands"
   employer         : "Netherlands eScience Center"
   uri              : # URL
