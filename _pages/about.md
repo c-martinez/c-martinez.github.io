@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Mexican 🇲🇽 computer scientist 💻 educated in the UK 🇬🇧 and working in the Netherlands 🇳🇱.
 
-I'm interested in Open Science, Open Source Software Research Software Engineering, FAIR software and Linked data.
+I'm interested in Open Science, Open Source Software, Research Software Engineering, FAIR software and Linked data.
 
 This website is partly automatically generated using [academicpages](https://github.com/academicpages/academicpages.github.io). 
-I use [ORCID API]() to fetch publications, [doi2bib]() to fetch missing citation information, and [Knitr]() to build my CV.
+I use [ORCID API](https://info.orcid.org/what-is-orcid/services/public-api/) to fetch publications, [doi2bib](https://pypi.org/project/doi2bib/) to fetch missing citation information, and [Knitr](https://yihui.org/knitr/) to build my CV.
